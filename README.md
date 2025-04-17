@@ -16,7 +16,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/tc-cli.git
+git clone https://github.com/trying-c/tc-cli.git
 
 # 安装依赖
 cd tc-cli && npm install
